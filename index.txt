@@ -1,0 +1,86 @@
+1:"$Sreact.fragment"
+3:I[8954,[],""]
+4:I[5640,[],""]
+12:I[7698,[],""]
+:HL["/_next/static/css/657bbda658a68698.css","style"]
+:HL["/_next/static/css/02f27b2af9e47546.css","style"]
+2:T5b7,{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Piotr Seefeld",
+  "@id": "https://seefeld.dev/#person",
+  "url": "https://seefeld.dev",
+  "jobTitle": "CTO & Lead Developer",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "https://moonlanderindustries.com/#organization",
+    "name": "Moonlander Industries",
+    "url": "https://moonlanderindustries.com"
+  },
+  "affiliation": [
+    {
+      "@type": "Organization",
+      "@id": "https://signagerocket.com/#organization",
+      "name": "Signage Rocket",
+      "url": "https://signagerocket.com"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://webiqlimited.co.uk/#organization",
+      "name": "WebIQ",
+      "url": "https://webiqlimited.co.uk"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://stronywwwlondyn.co.uk/#organization",
+      "name": "Strony WWW Londyn",
+      "url": "https://stronywwwlondyn.co.uk"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://apollovision.co.uk/#organization",
+      "name": "Apollo Vision",
+      "url": "https://apollovision.co.uk"
+    }
+  ],
+  "knowsAbout": [
+    "Node.js",
+    "React",
+    "TypeScript",
+    "AWS",
+    "Terraform",
+    "Digital Signage",
+    "DevOps",
+    "K3s",
+    "PostgreSQL"
+  ],
+  "sameAs": [
+    "https://www.linkedin.com/in/pseefeld/",
+    "https://github.com/seefeld",
+    "https://x.com/piotr_seefeld",
+    "https://seefeld.pl",
+    "https://seefeld.github.io"
+  ]
+}0:{"P":null,"b":"kqUCucIiHzzH6pqxFzVBB","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/657bbda658a68698.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}]}],["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[[["$","h1",null,{"className":"page_srOnly__O_3lC","children":"Piotr Seefeld — Software Engineer, London"}],["$","div",null,{"className":"page_gridBg__m8oQb"}],["$","div",null,{"className":"page_stars__IfV3K","id":"stars"}],["$","main",null,{"className":"page_content__kDoxQ","children":[["$","div",null,{"className":"page_header__kVzhN","children":[["$","div",null,{"className":"page_statusLight__XVJmj"}],["$","div",null,{"className":"page_headerText__g9NVg","children":[["$","div",null,{"className":"page_name__eOmhd","children":"Piotr Seefeld"}],["$","div",null,{"className":"page_meta__N1c8V","children":"MISSION CONTROL · LONDON · ALL SYSTEMS NOMINAL"}]]}]]}],["$","div",null,{"className":"page_telemetry___pz9y","children":["$L5","$L6","$L7"]}],"$L8","$L9","$La","$Lb","$Lc","$Ld"]}],"$Le"],["$Lf"],"$L10"]}],{},null,false]},null,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+13:I[2051,[],"OutletBoundary"]
+15:I[6658,[],"AsyncMetadataOutlet"]
+17:I[2051,[],"ViewportBoundary"]
+19:I[2051,[],"MetadataBoundary"]
+1a:"$Sreact.suspense"
+5:["$","div",null,{"className":"page_telemetryItem__NIGV2","children":[["$","div",null,{"className":"page_telemetryLabel__YIKzt","children":"Time in Service"}],["$","div",null,{"className":"page_telemetryValue__80Xz_","children":["22 ",["$","span",null,{"className":"page_unit__3UOH5","children":"YRS"}]]}]]}]
+6:["$","div",null,{"className":"page_telemetryItem__NIGV2","children":[["$","div",null,{"className":"page_telemetryLabel__YIKzt","children":"Friday Deploys"}],["$","div",null,{"className":"page_telemetryValue__80Xz_","children":"ENABLED"}]]}]
+7:["$","div",null,{"className":"page_telemetryItem__NIGV2","children":[["$","div",null,{"className":"page_telemetryLabel__YIKzt","children":"Incidents"}],["$","div",null,{"className":"page_telemetryValue__80Xz_","children":"Erm"}]]}]
+8:["$","blockquote",null,{"className":"page_quip__CDOoW","children":"“Ground control to Major Tom: the tests pass locally but not in CI.”"}]
+9:["$","div",null,{"className":"page_navLabel__Qx9Au","children":"Projects"}]
+a:["$","div",null,{"className":"page_links__qE4Ea","children":[["$","a","https://moonlanderindustries.com",{"href":"https://moonlanderindustries.com","className":"page_link__36MaQ","children":[["$","span",null,{"className":"page_dot__2YCho"}],"Moonlander Industries",["$","span",null,{"className":"page_badge__s34Is","children":"CO-FOUNDER"}]]}],["$","a","https://signagerocket.com",{"href":"https://signagerocket.com","className":"page_link__36MaQ","children":[["$","span",null,{"className":"page_dot__2YCho"}],"Signage Rocket",["$","span",null,{"className":"page_badge__s34Is","children":"CO-FOUNDER"}]]}],["$","a","https://apollovision.co.uk",{"href":"https://apollovision.co.uk","className":"page_link__36MaQ","children":[["$","span",null,{"className":"page_dot__2YCho"}],"Apollo Vision",["$","span",null,{"className":"page_badge__s34Is","children":"CO-FOUNDER"}]]}],["$","a","https://webiqlimited.co.uk",{"href":"https://webiqlimited.co.uk","className":"page_link__36MaQ","children":[["$","span",null,{"className":"page_dot__2YCho"}],"WebIQ",["$","span",null,{"className":"page_badge__s34Is","children":"CO-FOUNDER"}]]}],["$","a","https://stronywwwlondyn.co.uk",{"href":"https://stronywwwlondyn.co.uk","className":"page_link__36MaQ","children":[["$","span",null,{"className":"page_dot__2YCho"}],"Strony WWW Londyn",["$","span",null,{"className":"page_badge__s34Is","children":"CO-FOUNDER"}]]}]]}]
+b:["$","div",null,{"className":"page_navLabel__Qx9Au","children":"Elsewhere"}]
+c:["$","div",null,{"className":"page_links__qE4Ea","children":[["$","a","https://github.com/seefeld",{"href":"https://github.com/seefeld","className":"page_link__36MaQ","children":[["$","span",null,{"className":"page_dot__2YCho"}],"GitHub"]}],["$","a","https://www.linkedin.com/in/pseefeld/",{"href":"https://www.linkedin.com/in/pseefeld/","className":"page_link__36MaQ","children":[["$","span",null,{"className":"page_dot__2YCho"}],"LinkedIn"]}],["$","a","https://x.com/piotr_seefeld",{"href":"https://x.com/piotr_seefeld","className":"page_link__36MaQ","children":[["$","span",null,{"className":"page_dot__2YCho"}],"X / Twitter"]}],["$","a","https://seefeld.dev",{"href":"https://seefeld.dev","className":"page_link__36MaQ","children":[["$","span",null,{"className":"page_dot__2YCho"}],"seefeld.dev"]}],["$","a","https://seefeld.pl",{"href":"https://seefeld.pl","className":"page_link__36MaQ","children":[["$","span",null,{"className":"page_dot__2YCho"}],"seefeld.pl"]}],["$","a","https://seefeld.github.io",{"href":"https://seefeld.github.io","className":"page_link__36MaQ","children":[["$","span",null,{"className":"page_dot__2YCho"}],"seefeld.github.io"]}]]}]
+d:["$","footer",null,{"className":"page_footer__sHKi3","children":[["$","span",null,{"children":"Node.js · React · TypeScript · AWS · Terraform · K3s"}],["$","span",null,{"children":"v22.0.0"}]]}]
+e:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n            var c = document.getElementById('stars');\n            for (var i = 0; i < 90; i++) {\n              var s = document.createElement('div');\n              s.className = 'page_star__v4NEN';\n              s.style.left = Math.random() * 100 + '%';\n              s.style.top = Math.random() * 100 + '%';\n              s.style.setProperty('--dur', (10 + Math.random() * 15) + 's');\n              s.style.setProperty('--delay', (Math.random() * 10) + 's');\n              s.style.setProperty('--peak', (0.06 + Math.random() * 0.25).toFixed(2));\n              c.appendChild(s);\n            }\n          "}}]
+f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/02f27b2af9e47546.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+10:["$","$L13",null,{"children":["$L14",["$","$L15",null,{"promise":"$@16"}]]}]
+11:["$","$1","h",{"children":[null,[["$","$L17",null,{"children":"$L18"}],null],["$","$L19",null,{"children":["$","div",null,{"hidden":true,"children":["$","$1a",null,{"fallback":null,"children":"$L1b"}]}]}]]}]
+18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+14:null
+16:{"metadata":[["$","title","0",{"children":"Piotr Seefeld — Software Engineer"}],["$","meta","1",{"name":"description","content":"CTO & Lead Developer. Co-founder of Moonlander Industries, Signage Rocket, Apollo Vision, WebIQ. London, UK."}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","meta","3",{"name":"theme-color","content":"#0a0c14"}],["$","link","4",{"rel":"canonical","href":"https://seefeld.dev"}],["$","meta","5",{"property":"og:title","content":"Piotr Seefeld — Software Engineer"}],["$","meta","6",{"property":"og:description","content":"CTO & Lead Developer. Co-founder of Moonlander Industries, Signage Rocket, Apollo Vision, WebIQ. London, UK."}],["$","meta","7",{"property":"og:url","content":"https://seefeld.dev"}],["$","meta","8",{"property":"og:site_name","content":"Piotr Seefeld"}],["$","meta","9",{"property":"og:locale","content":"en_GB"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Piotr Seefeld — Software Engineer"}],["$","meta","13",{"name":"twitter:description","content":"CTO & Lead Developer. Co-founder of Moonlander Industries, Signage Rocket, Apollo Vision, WebIQ. London, UK."}]],"error":null,"digest":"$undefined"}
+1b:"$16:metadata"
