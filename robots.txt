@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seefeld.github.io/sitemap.xml
